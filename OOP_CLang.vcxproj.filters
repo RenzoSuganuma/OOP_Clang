@@ -18,12 +18,9 @@
     <ClCompile Include="main.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="MyClass.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="MyClass.h">
+    <ClInclude Include="sample.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
